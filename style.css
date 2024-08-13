@@ -5,7 +5,7 @@ h1{
 }
 
 body{
-    
+    margin: 0px;
 font-family: 'Poppins', sans-serif;
 }
 
@@ -22,3 +22,14 @@ font-family: 'Poppins', sans-serif;
 
 }
 
+.top-banner{
+    borde: 1px solid red;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+section{
+    height: 500px;
+    
+
+}
